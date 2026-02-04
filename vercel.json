@@ -3,9 +3,5 @@
     "outputDirectory": "dist",
     "devCommand": "npx expo start --web",
     "installCommand": "npm install",
-    "framework": null,
-    "env": {
-        "EXPO_PUBLIC_SUPABASE_URL": "@supabase_url",
-        "EXPO_PUBLIC_SUPABASE_ANON_KEY": "@supabase_anon_key"
-    }
+    "framework": null
 }
