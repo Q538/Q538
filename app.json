@@ -25,7 +25,7 @@
     "web": {
       "favicon": "./assets/favicon.png",
       "bundler": "metro",
-      "output": "static",
+      "output": "single",
       "name": "Cuadrante Mossos",
       "shortName": "Cuadrante",
       "description": "Gestió de quadrants i permisos per a Mossos d'Esquadra",
